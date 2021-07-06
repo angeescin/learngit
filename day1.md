@@ -11,6 +11,11 @@ git is a Distributed Version Control system, Writen By Linus With C.
 
 ### git add
 
+
+### git rm
+
+remove file from repository
+
 ### git commit 
 
 ### git status
